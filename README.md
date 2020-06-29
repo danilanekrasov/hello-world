@@ -1,5 +1,5 @@
 <h1 align="center">
-    hello-world
+    GitHub hello world project
 </h1>
 
 <p align="center">
