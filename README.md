@@ -11,5 +11,4 @@
     <a href="https://github.com/danilanekrasov/hello-world/actions?query=workflow%3Amarkdownlint" title="markdownlint"><img src="https://github.com/danilanekrasov/hello-world/workflows/markdownlint/badge.svg"></a>
   <a href="https://github.com/danilanekrasov/hello-world/blob/master/LICENSE" title="license"><img src="https://img.shields.io/github/license/danilanekrasov/hello-world"></a>
 
-
 Hi Humans!
