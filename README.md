@@ -1,5 +1,14 @@
 # GitHub hello world project
 
+
+
+
+[![last commit](https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat "go to commits GitHub page")](https://github.com/danilanekrasov/hello-world/commits/)
+
+
+
+
+
 <p align="center">
     <a href="https://github.com/danilanekrasov/hello-world/commits/" title="last commit"><img
             src="https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat"></a>
