@@ -1,6 +1,4 @@
-<h1 align="center">
-    GitHub hello world project
-</h1>
+# GitHub hello world project
 
 <p align="center">
     <a href="https://github.com/danilanekrasov/hello-world/commits/" title="last commit"><img
