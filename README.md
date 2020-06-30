@@ -1,8 +1,5 @@
 # GitHub hello world project
 
-
-
-
 [![last commit](https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat "go to commits GitHub page")](https://github.com/danilanekrasov/hello-world/commits/)
 
 
