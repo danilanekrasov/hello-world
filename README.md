@@ -10,7 +10,7 @@
 
 
 <p align="center">
-    
+
     <a href="https://github.com/danilanekrasov/hello-world/commits/" title="commit activity"><img
             src="https://img.shields.io/github/commit-activity/m/danilanekrasov/hello-world?style=flat"></a>
     <a href="https://github.com/danilanekrasov/hello-world/issues/" title="issues"><img
