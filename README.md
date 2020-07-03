@@ -4,7 +4,7 @@
 
 
 [![commit activity](https://img.shields.io/github/commit-activity/m/danilanekrasov/hello-world?style=flat "go to commits GitHub page")](https://github.com/danilanekrasov/hello-world/commits/)
-,
+
 
 
 
