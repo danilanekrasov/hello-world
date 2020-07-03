@@ -3,12 +3,14 @@
 [![last commit](https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat "go to commits GitHub page")](https://github.com/danilanekrasov/hello-world/commits/)
 
 
+[![commit activity](https://img.shields.io/github/commit-activity/m/danilanekrasov/hello-world?style=flat "go to commits GitHub page")](https://github.com/danilanekrasov/hello-world/commits/)
+,
+
 
 
 
 <p align="center">
-    <a href="https://github.com/danilanekrasov/hello-world/commits/" title="last commit"><img
-            src="https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat"></a>
+    
     <a href="https://github.com/danilanekrasov/hello-world/commits/" title="commit activity"><img
             src="https://img.shields.io/github/commit-activity/m/danilanekrasov/hello-world?style=flat"></a>
     <a href="https://github.com/danilanekrasov/hello-world/issues/" title="issues"><img
