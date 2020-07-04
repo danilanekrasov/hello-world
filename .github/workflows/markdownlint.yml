@@ -4,20 +4,21 @@ on: [push]
 
 jobs:
   job_id:    
-    name: Job Name    
+    name: Job 1 - Build    
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Step 1 - Checkout
         uses: actions/checkout@v2
       
-      - name: Markdown Linting Action
+      - name: Step 2 -  Markdown Linting Action
         uses: avto-dev/markdown-lint@v1.3.0
         with:
           args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md ./.github/ISSUE_TEMPLATE/bug_report.md'
       
-      - name: wiki-page-creator-action
+      - name: Step 3 - Wiki page creator action
         uses: Decathlon/wiki-page-creator-action@v2.0.0
         env:
           ACTION_MAIL: danilanekrasov.dev@gmail.com
           ACTION_NAME: danilanekrasov
           OWNER: danilanekrasov
+          REPO_NAME: hello-world
