@@ -81,7 +81,7 @@ have one.
 >backgrounds. See the [Python Community Code of Conduct]
 >(<https://www.python.org/psf/codeofconduct/>).
 
-[source: [cookiecutter](https://github.com/cookiecutter/cookiecutter/blob/master/CONTRIBUTING.rst)]
+[source: [cookiecutter](https://github.com/cookiecutter/cookiecutter/blob/master/CONTRIBUTING.md)]
     **Need more inspiration?** [1] [Celery]
     (<https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct>)
      [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
