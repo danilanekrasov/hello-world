@@ -22,3 +22,4 @@ jobs:
           ACTION_NAME: danilanekrasov
           OWNER: danilanekrasov
           REPO_NAME: hello-world
+          GH_PAT: ${{ secrets.GH_PAT }}
