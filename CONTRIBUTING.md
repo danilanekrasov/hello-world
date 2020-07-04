@@ -66,10 +66,11 @@ project dependencies, etc). Mention and link to your code of conduct, if you
 have one.
 
 > Responsibilities
+>
 > * Ensure cross-platform compatibility for every change that's accepted.
 >Windows, Mac, Debian & Ubuntu Linux.
 > * Ensure that code that goes into core meets all requirements in this
->checklist: https://gist.github.com/audreyr/4feef90445b9680475f2
+>checklist: <https://gist.github.com/audreyr/4feef90445b9680475f2>
 > * Create issues for any major changes and enhancements that you wish to make.
 >Discuss things transparently and get community feedback.
 > * Don't add any classes to the codebase unless absolutely needed. Err on the
@@ -78,11 +79,11 @@ have one.
 >version.
 > * Be welcoming to newcomers and encourage diverse new contributors from all
 >backgrounds. See the [Python Community Code of Conduct]
->(https://www.python.org/psf/codeofconduct/).
+>(<https://www.python.org/psf/codeofconduct/>).
 
 [source: [cookiecutter](https://github.com/audreyr/cookiecutter/blob/master/CONTRIBUTING.rst)]
     **Need more inspiration?** [1] [Celery]
-    (https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct)
+    (<https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct>)
      [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
 
 ## Your First Contribution
@@ -103,7 +104,7 @@ convention for flagging beginner issues.
 [source: [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#your-first-code-contribution)]
     **Need more inspiration?**
     [1] [Read the Docs]
-    (http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development)
+    (<http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development>)
     [2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps)
     (scroll down to "Guidelines" as well)
 
