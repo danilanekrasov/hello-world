@@ -13,7 +13,7 @@ jobs:
       - name: Step Name 2
         uses: avto-dev/markdown-lint@v1.3.0
         with:
-          args: './README.md'
+          args: './README.md ./SECURITY.md ./pull_request_template.md'
 
 
 
