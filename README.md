@@ -9,7 +9,7 @@
 [![markdown lint][badge_markdown_lint]][link_markdown_lint]
 [![license][badge_license]][link_license]
 
-    Hi Humans!
+Hi Humans!
 
 [link_commits]:https://github.com/danilanekrasov/hello-world/commits/
 
