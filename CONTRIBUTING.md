@@ -108,7 +108,9 @@ convention for flagging beginner issues.
     [2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps)
     (scroll down to "Guidelines" as well)
 
-### Bonus points: Add a link to a resource for people who have never contributed to open source before
+### Bonus points
+
+Add a link to a resource for people who have never contributed to open source before
 
 Here are a couple of friendly tutorials you can include:
 <http://makeapullrequest.com/> and <http://www.firsttimersonly.com/>
@@ -141,7 +143,7 @@ How you write this is up to you, but some things you may want to include:
     them know which tools they’ll need to contribute
 
 >For something that is bigger than a one or two line fix:
-
+>
 >1. Create your own fork of the code
 >2. Do the changes in your fork
 >3. If you like the change and think the project could use it:
