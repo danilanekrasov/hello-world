@@ -110,7 +110,7 @@ convention for flagging beginner issues.
 
 ### Bonus points: Add a link to a resource for people who have never contributed to open source before
 
-Here are a couple of friendly tutorials you can include: http://makeapullrequest.com/ and http://www.firsttimersonly.com/
+Here are a couple of friendly tutorials you can include: <http://makeapullrequest.com/> and <http://www.firsttimersonly.com/>
 
 > Working on your first Pull Request? You can learn how from this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
@@ -149,6 +149,7 @@ How you write this is up to you, but some things you may want to include:
 > Small contributions such as fixing spelling errors, where the content is small enough to not be considered intellectual property, can be submitted by a contributor as a patch, without a CLA.
 >
 >As a rule of thumb, changes are obvious fixes if they do not introduce any new functionality or creative thinking. As long as the change does not affect functionality, some likely examples include the following:
+>
 >* Spelling / grammar fixes
 >* Typo correction, white space and formatting changes
 >* Comment clean up
@@ -161,7 +162,7 @@ How you write this is up to you, but some things you may want to include:
 
 ## How to report a bug
 
-### Explain security disclosures first!
+### Explain security disclosures first
 
 At bare minimum, include this sentence:
 > If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
@@ -170,6 +171,7 @@ If you don’t want to use your personal contact information, set up a “securi
 
 > Any security issues should be submitted directly to security@travis-ci.org
 > In order to determine whether you are dealing with a security issue, ask yourself these two questions:
+>
 > * Can I access something that's not mine, or something I shouldn't have access to?
 > * Can I disable something for other people?
 >
@@ -177,7 +179,7 @@ If you don’t want to use your personal contact information, set up a “securi
 
 [source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security) [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
 
-### Tell your contributors how to file a bug report.
+### Tell your contributors how to file a bug report
 
 You can even include a template so people can just copy-paste (again, less work for you).
 
@@ -227,7 +229,7 @@ Who reviews it? Who needs to sign off before it’s accepted? When should a cont
 
 If there are other channels you use besides GitHub to discuss contributions, mention them here. You can also list the author, maintainers, and/or contributors here, or set expectations for response time.
 
-> You can chat with the core team on https://gitter.im/cucumber/cucumber. We try to have office hours on Fridays.
+> You can chat with the core team on <https://gitter.im/cucumber/cucumber>. We try to have office hours on Fridays.
 
 [source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)] **Need more inspiration?**
  [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours) [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
@@ -240,7 +242,7 @@ These sections are not necessary, but can help streamline the contributions you 
 
 **Need inspiration?** [1] [Requirejs](http://requirejs.org/docs/contributing.html#codestyle) [2] [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#contributing-to-the-elasticsearch-codebase)
 
-### Explain if you use any commit message conventions.
+### Explain if you use any commit message conventions
 
 **Need inspiration?** [1] [Angular](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#submit) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#step-3-commit)
 
