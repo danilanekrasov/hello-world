@@ -153,7 +153,8 @@ How you write this is up to you, but some things you may want to include:
 >    * Note the jQuery Foundation Code of Conduct.
 >    * Send a pull request indicating that you have a CLA on file.
 
-[source: [Requirejs](http://requirejs.org/docs/contributing.html)] **Need more inspiration?** [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
+[source: [Requirejs](http://requirejs.org/docs/contributing.html)]
+    **Need more inspiration?** [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
 
 ### If you have a different process for small or "obvious" fixes, let them know
 
@@ -267,4 +268,6 @@ These sections are not necessary, but can help streamline the contributions you 
 
 ### Explain if you use any labeling conventions for issues
 
-**Need inspiration?** [1] [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#issue-and-pull-request-labels)
+**Need inspiration?**
+[1] [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels)
+[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#issue-and-pull-request-labels)
