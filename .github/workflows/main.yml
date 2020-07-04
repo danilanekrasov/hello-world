@@ -1,9 +1,9 @@
-name: Workflow Name 1
+name: CI
 
 on: [push]
 
 jobs:
-  job_id:    
+  build:    
     name: Job 1 - Build    
     runs-on: ubuntu-latest
     steps:
