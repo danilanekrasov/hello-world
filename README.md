@@ -10,13 +10,6 @@
 [![license][badge_license]][link_license]
 
 
-
-
-
-
-
-
-
     Hi Humans!
 
 
