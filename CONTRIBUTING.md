@@ -56,9 +56,9 @@ your policy.
     [2] [Read the Docs]
     (<http://read-the-docs.readthedocs.org/en/latest/open-source-philosophy.html#unsupported>)
 
-# Ground Rules
+## Ground Rules
 
-## Set expectations for behavior (yours, and theirs)
+### Set expectations for behavior (yours, and theirs)
 
 This includes not just how to communicate with others (being respectful,
 considerate, etc) but also technical responsibilities (importance of testing,
@@ -85,7 +85,7 @@ have one.
     (https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct)
      [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
 
-# Your First Contribution
+## Your First Contribution
 
 Help people who are new to your project understand where they can be most
 helpful. This is also a good time to let people know if you follow a label
@@ -107,7 +107,7 @@ convention for flagging beginner issues.
     [2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps)
     (scroll down to "Guidelines" as well)
 
-## Bonus points: Add a link to a resource for people who have never contributed to open source before
+### Bonus points: Add a link to a resource for people who have never contributed to open source before
 
 Here are a couple of friendly tutorials you can include: http://makeapullrequest.com/ and http://www.firsttimersonly.com/
 
@@ -121,9 +121,9 @@ As a side note, it helps to use newcomer-friendly language throughout the rest o
 >
 >If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
 
-# Getting started
+## Getting started
 
-## Give them a quick walkthrough of how to submit a contribution
+### Give them a quick walkthrough of how to submit a contribution
 
 How you write this is up to you, but some things you may want to include:
 
@@ -143,7 +143,7 @@ How you write this is up to you, but some things you may want to include:
 
 [source: [Requirejs](http://requirejs.org/docs/contributing.html)] **Need more inspiration?** [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
 
-## If you have a different process for small or "obvious" fixes, let them know
+### If you have a different process for small or "obvious" fixes, let them know
 
 > Small contributions such as fixing spelling errors, where the content is small enough to not be considered intellectual property, can be submitted by a contributor as a patch, without a CLA.
 >
@@ -158,9 +158,9 @@ How you write this is up to you, but some things you may want to include:
 
 [source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)] **Need more inspiration?** [1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
 
-# How to report a bug
+## How to report a bug
 
-## Explain security disclosures first!
+### Explain security disclosures first!
 
 At bare minimum, include this sentence:
 > If you find a security vulnerability, do NOT open an issue. Email XXXX instead.
@@ -176,7 +176,7 @@ If you don’t want to use your personal contact information, set up a “securi
 
 [source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security) [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
 
-## Tell your contributors how to file a bug report.
+### Tell your contributors how to file a bug report.
 
 You can even include a template so people can just copy-paste (again, less work for you).
 
@@ -191,9 +191,9 @@ You can even include a template so people can just copy-paste (again, less work 
 
 [source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs ) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
 
-# How to suggest a feature or enhancement
+## How to suggest a feature or enhancement
 
-## If you have a particular roadmap, goals, or philosophy for development, share it here
+### If you have a particular roadmap, goals, or philosophy for development, share it here
 
 This information will give contributors context before they make suggestions that may not align with the project’s needs.
 
@@ -203,7 +203,7 @@ This information will give contributors context before they make suggestions tha
 
 [source: [Express](https://github.com/expressjs/express#philosophy)] **Need more inspiration?** [Active Admin](https://github.com/activeadmin/activeadmin#goals)
 
-## Explain your desired process for suggesting a feature
+### Explain your desired process for suggesting a feature
 
 If there is back-and-forth or signoff required, say so. Ask them to scope the feature, thinking through why it’s needed and how it might work.
 
@@ -211,9 +211,9 @@ If there is back-and-forth or signoff required, say so. Ask them to scope the fe
 
 [source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)] **Need more inspiration?** [1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests) [2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
 
-# Code review process
+## Code review process
 
-## Explain how a contribution gets accepted after it’s been submitted
+### Explain how a contribution gets accepted after it’s been submitted
 
 Who reviews it? Who needs to sign off before it’s accepted? When should a contributor expect to hear from you? How can contributors get commit access, if at all?
 
@@ -222,7 +222,7 @@ Who reviews it? Who needs to sign off before it’s accepted? When should a cont
 
 [source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)] **Need more inspiration?** [1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH ) [2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
 
-# Community
+## Community
 
 If there are other channels you use besides GitHub to discuss contributions, mention them here. You can also list the author, maintainers, and/or contributors here, or set expectations for response time.
 
@@ -231,18 +231,18 @@ If there are other channels you use besides GitHub to discuss contributions, men
 [source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)] **Need more inspiration?**
  [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours) [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
 
-# BONUS: Code, commit message and labeling conventions
+## BONUS: Code, commit message and labeling conventions
 
 These sections are not necessary, but can help streamline the contributions you receive.
 
-## Explain your preferred style for code, if you have any
+### Explain your preferred style for code, if you have any
 
 **Need inspiration?** [1] [Requirejs](http://requirejs.org/docs/contributing.html#codestyle) [2] [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#contributing-to-the-elasticsearch-codebase)
 
-## Explain if you use any commit message conventions.
+### Explain if you use any commit message conventions.
 
 **Need inspiration?** [1] [Angular](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#submit) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#step-3-commit)
 
-## Explain if you use any labeling conventions for issues
+### Explain if you use any labeling conventions for issues
 
 **Need inspiration?** [1] [StandardIssueLabels](https://github.com/wagenet/StandardIssueLabels#standardissuelabels) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#issue-and-pull-request-labels)
