@@ -19,3 +19,4 @@ jobs:
         uses: Decathlon/wiki-page-creator-action@v2.0.0
         env:
           ACTION_MAIL: danilanekrasov.dev@gmail.com
+          ACTION_NAME: danilanekrasov
