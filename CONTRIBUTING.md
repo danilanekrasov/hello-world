@@ -154,7 +154,10 @@ How you write this is up to you, but some things you may want to include:
 >    * Send a pull request indicating that you have a CLA on file.
 
 [source: [Requirejs](http://requirejs.org/docs/contributing.html)]
-    **Need more inspiration?** [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions) [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
+    **Need more inspiration?**
+    [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here)
+    [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions)
+    [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
 
 ### If you have a different process for small or "obvious" fixes, let them know
 
@@ -170,7 +173,8 @@ How you write this is up to you, but some things you may want to include:
 >* Changes to ‘metadata’ files like Gemfile, .gitignore, build scripts, etc.
 >* Moving source files from one directory or package to another
 
-[source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)] **Need more inspiration?** [1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
+[source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)] **Need more inspiration?**
+[1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
 
 ## How to report a bug
 
@@ -190,7 +194,9 @@ email address. Larger projects might have more formal processes for disclosing s
 >
 > If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. Note that even if you answer "no" to both questions, you may still be dealing with a security issue, so if you're unsure, just email us at security@travis-ci.org.
 
-[source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security) [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
+[source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?**
+[1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security)
+[2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
 
 ### Tell your contributors how to file a bug report
 
@@ -206,7 +212,9 @@ for you).
 > 5. What did you see instead?
 > General questions should go to the golang-nuts mailing list instead of the issue tracker. The gophers there will answer or ask you to file an issue if you've tripped over a bug.
 
-[source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?** [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs ) [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
+[source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?**
+[1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs )
+[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
 
 ## How to suggest a feature or enhancement
 
@@ -228,7 +236,9 @@ feature, thinking through why it’s needed and how it might work.
 
 > If you find yourself wishing for a feature that doesn't exist in Elasticsearch, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that Elasticsearch has today have been added because our users saw the need. Open an issue on our issues list on GitHub which describes the feature you would like to see, why you need it, and how it should work.
 
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)] **Need more inspiration?** [1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests) [2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
+[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)] **Need more inspiration?**
+[1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests)
+[2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
 
 ## Code review process
 
@@ -241,7 +251,9 @@ at all?
 > The core team looks at Pull Requests on a regular basis in a weekly triage meeting that we hold in a public Google Hangout. The hangout is announced in the weekly status updates that are sent to the puppet-dev list. Notes are posted to the Puppet Community community-triage repo and include a link to a YouTube recording of the hangout.
 > After feedback has been given we expect responses within two weeks. After two weeks we may close the pull request if it isn't showing any activity.
 
-[source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)] **Need more inspiration?** [1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH ) [2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
+[source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)] **Need more inspiration?**
+[1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH )
+[2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
 
 ## Community
 
@@ -252,7 +264,8 @@ contributors here, or set expectations for response time.
 > You can chat with the core team on <https://gitter.im/cucumber/cucumber>. We try to have office hours on Fridays.
 
 [source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)] **Need more inspiration?**
- [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours) [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
+[1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours)
+[2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
 
 ## BONUS: Code, commit message and labeling conventions
 
@@ -260,11 +273,15 @@ These sections are not necessary, but can help streamline the contributions you 
 
 ### Explain your preferred style for code, if you have any
 
-**Need inspiration?** [1] [Requirejs](http://requirejs.org/docs/contributing.html#codestyle) [2] [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#contributing-to-the-elasticsearch-codebase)
+**Need inspiration?**
+[1] [Requirejs](http://requirejs.org/docs/contributing.html#codestyle)
+[2] [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#contributing-to-the-elasticsearch-codebase)
 
 ### Explain if you use any commit message conventions
 
-**Need inspiration?** [1] [Angular](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#submit) [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#step-3-commit)
+**Need inspiration?**
+[1] [Angular](https://github.com/angular/material/blob/master/.github/CONTRIBUTING.md#submit)
+[2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#step-3-commit)
 
 ### Explain if you use any labeling conventions for issues
 
