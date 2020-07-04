@@ -177,7 +177,8 @@ How you write this is up to you, but some things you may want to include:
 >* Changes to ‘metadata’ files like Gemfile, .gitignore, build scripts, etc.
 >* Moving source files from one directory or package to another
 
-[source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)] **Need more inspiration?**
+[source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)]
+ **Need more inspiration?**
 [1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
 
 ## How to report a bug
@@ -189,13 +190,16 @@ At bare minimum, include this sentence:
 > Email XXXX instead.
 
 If you don’t want to use your personal contact information, set up a “security@”
-email address. Larger projects might have more formal processes for disclosing security, including encrypted communication. (Disclosure: I am not a security expert.)
+email address. Larger projects might have more formal processes for disclosing
+security, including encrypted communication. (Disclosure: I am not a security
+expert.)
 
 > Any security issues should be submitted directly to security@travis-ci.org
 > In order to determine whether you are dealing with a security issue, ask
 >yourself these two questions:
 >
-> * Can I access something that's not mine, or something I shouldn't have access to?
+> * Can I access something that's not mine, or something I shouldn't have access
+> to?
 > * Can I disable something for other people?
 >
 > If the answer to either of those two questions are "yes", then you're probably
@@ -219,7 +223,9 @@ for you).
 > 3. What did you do?
 > 4. What did you expect to see?
 > 5. What did you see instead?
-> General questions should go to the golang-nuts mailing list instead of the issue tracker. The gophers there will answer or ask you to file an issue if you've tripped over a bug.
+> General questions should go to the golang-nuts mailing list instead of the
+>issue tracker. The gophers there will answer or ask you to file an issue if
+>you've tripped over a bug.
 
 [source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs )
@@ -227,7 +233,10 @@ for you).
 
 ## How to suggest a feature or enhancement
 
-### If you have a particular roadmap, goals, or philosophy for development, share it here
+### If you have a particular roadmap, goals, or philosophy for development
+
+If you have a particular roadmap, goals, or philosophy for development, share it
+here
 
 This information will give contributors context before they make suggestions
 that may not align with the project’s needs.
