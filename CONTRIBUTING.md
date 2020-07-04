@@ -1,4 +1,4 @@
-# Introduction
+# Introduction (contributing template)
 
 ## Write something nice here
 
@@ -6,9 +6,9 @@
 >like you that make Active Admin such a great tool.
 
 [source: [Active Admin]
-    (https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md)]
+    (<https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md>)]
     **Need more inspiration?** [1] [Read The Docs]
-    (http://read-the-docs.readthedocs.org/en/latest/contribute.html) [2]
+    (<http://read-the-docs.readthedocs.org/en/latest/contribute.html>) [2]
     [Mustache.js](https://github.com/janl/mustache.js/#contributing)
 
 ## Tell them why they should read your guidelines
@@ -19,7 +19,7 @@
 >changes, and helping you finalize your pull requests.
 
 [source: [Hoodie]
-    (https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md)]
+    (<https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md>)]
 
 ## Explain what kinds of contributions you are looking for
 
@@ -33,8 +33,11 @@ are all examples of helpful contributions that mean less work for you.
 >Elasticsearch itself.
 
 [source: [Elasticsearch]
-    (https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)]
-    **Need more inspiration?** [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing) [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues) (“known issues”)
+    (<https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md>)]
+    **Need more inspiration?**
+    [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing)
+    [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues)
+    (“known issues”)
 
 ## Explain contributions you are NOT looking for (if any)
 
