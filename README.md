@@ -1,8 +1,5 @@
 # GitHub template project
 
-
-
-
 [![release][badge_release]][link_releases]
 [![last commit][badge_last_commit]][link_commits]
 [![commit activity][badge_commit_activity]][link_commits]
