@@ -16,9 +16,12 @@ jobs:
           args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md ./.github/ISSUE_TEMPLATE/bug_report.md'      
       
       - name: Step 3 - Markdown link check
-        uses: gaurav-nelson/github-action-markdown-link-check@1.0.3      
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.3  
       
-      - name: Step 4 - Wiki page creator
+      - name: Step 4 - Markdown spellcheck
+        uses: rojopolis/spellcheck-github-actions@0.5.0
+      
+      - name: Step 5 - Wiki page creator
         uses: Decathlon/wiki-page-creator-action@v2.0.0
         env:
           ACTION_MAIL: danilanekrasov.dev@gmail.com
