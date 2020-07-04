@@ -1,14 +1,41 @@
-name: markdownlint
+name: Workflow Name
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
-  delivery:
-
+  job_id:    
+    name: Job Name    
     runs-on: ubuntu-latest
+    steps:      
+      - name: Step Name
+        uses: avto-dev/markdown-lint@v1.3.0
 
-    steps:
-    - name: Check out code
-      uses: actions/checkout@master
-    - name: Run mdl
-      uses: actionshub/markdownlint@master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#- name: Markdown Linting Action
+ # uses: avto-dev/markdown-lint@v1.3.0
