@@ -230,8 +230,9 @@ for you).
 
 [source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)]
  **Need more inspiration?**
-[1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs )
-[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
+[1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs)
+[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs)
+ (includes template)
 
 ## How to suggest a feature or enhancement
 
