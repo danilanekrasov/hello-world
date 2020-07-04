@@ -20,3 +20,4 @@ jobs:
         env:
           ACTION_MAIL: danilanekrasov.dev@gmail.com
           ACTION_NAME: danilanekrasov
+          OWNER: danilanekrasov
