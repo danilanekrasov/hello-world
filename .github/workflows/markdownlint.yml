@@ -13,34 +13,4 @@ jobs:
       - name: Step Name 2
         uses: avto-dev/markdown-lint@v1.3.0
         with:
-          args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#- name: Markdown Linting Action
- # uses: avto-dev/markdown-lint@v1.3.0
+          args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md ./.github/ISSUE_TEMPLATE/bug_report.md'
