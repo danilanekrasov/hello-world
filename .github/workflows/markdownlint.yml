@@ -1,14 +1,46 @@
-name: markdownlint
+name: Workflow Name
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
-  delivery:
-
+  job_id:    
+    name: Job Name    
     runs-on: ubuntu-latest
-
     steps:
-    - name: Check out code
-      uses: actions/checkout@master
-    - name: Run mdl
-      uses: actionshub/markdownlint@master
+      - name: Step Name 1
+        uses: actions/checkout@v2
+      
+      - name: Step Name 2
+        uses: avto-dev/markdown-lint@v1.3.0
+        with:
+          args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#- name: Markdown Linting Action
+ # uses: avto-dev/markdown-lint@v1.3.0
