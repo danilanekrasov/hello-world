@@ -207,7 +207,8 @@ expert.)
 >questions, you may still be dealing with a security issue, so if you're unsure,
 > just email us at security@travis-ci.org.
 
-[source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)] **Need more inspiration?**
+[source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)]
+ **Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security)
 [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
 
@@ -227,7 +228,8 @@ for you).
 >issue tracker. The gophers there will answer or ask you to file an issue if
 >you've tripped over a bug.
 
-[source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)] **Need more inspiration?**
+[source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)]
+ **Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs )
 [2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
 
@@ -249,7 +251,8 @@ that may not align with the project’s needs.
 >With support for over 14 template engines via Consolidate.js, you can quickly
 >craft your perfect framework.
 
-[source: [Express](https://github.com/expressjs/express#philosophy)] **Need more inspiration?** [Active Admin](https://github.com/activeadmin/activeadmin#goals)
+[source: [Express](https://github.com/expressjs/express#philosophy)]
+ **Need more inspiration?** [Active Admin](https://github.com/activeadmin/activeadmin#goals)
 
 ### Explain your desired process for suggesting a feature
 
@@ -263,7 +266,8 @@ feature, thinking through why it’s needed and how it might work.
 >list on GitHub which describes the feature you would like to see, why you need
 >it, and how it should work.
 
-[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)] **Need more inspiration?**
+[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)]
+ **Need more inspiration?**
 [1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests)
 [2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
 
@@ -283,7 +287,8 @@ at all?
 >responses within two weeks. After two weeks we may close the pull request if it
 > isn't showing any activity.
 
-[source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)] **Need more inspiration?**
+[source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)]
+ **Need more inspiration?**
 [1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH )
 [2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
 
@@ -296,7 +301,8 @@ contributors here, or set expectations for response time.
 > You can chat with the core team on <https://gitter.im/cucumber/cucumber>.
 >We try to have office hours on Fridays.
 
-[source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)] **Need more inspiration?**
+[source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)]
+ **Need more inspiration?**
 [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours)
 [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
 
