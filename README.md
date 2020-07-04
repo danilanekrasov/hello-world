@@ -13,12 +13,15 @@
 
 [link_commits]:https://github.com/danilanekrasov/hello-world/commits/
 
-[badge_release]:https://img.shields.io/github/v/release/danilanekrasov/hello-world "go to releases GitHub page"
+[badge_release]:https://img.shields.io/github/v/release/danilanekrasov/hello-world
+    "go to releases GitHub page"
 [link_releases]:https://github.com/danilanekrasov/hello-world/releases
 
-[badge_last_commit]:https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat "go to commits GitHub page"
+[badge_last_commit]:https://img.shields.io/github/last-commit/danilanekrasov/hello-world?style=flat
+    "go to commits GitHub page"
 
-[badge_commit_activity]:https://img.shields.io/github/commit-activity/y/danilanekrasov/hello-world?style=flat "go to commits GitHub page"
+[badge_commit_activity]:https://img.shields.io/github/commit-activity/y/danilanekrasov/hello-world?style=flat
+    "go to commits GitHub page"
 
 [badge_issues]:https://img.shields.io/github/issues/danilanekrasov/hello-world?style=flat "go to issues GitHub page"
 [link_issues]:https://github.com/danilanekrasov/hello-world/issues/
