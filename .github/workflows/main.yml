@@ -1,0 +1,28 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:    
+    name: Job 1 - Build    
+    runs-on: ubuntu-latest
+    steps:
+      - name: Step 1 - Checkout
+        uses: actions/checkout@v2
+      
+      - name: Step 2 - Markdown linting check
+        uses: avto-dev/markdown-lint@v1.3.0
+        with:
+          args: './README.md ./SECURITY.md ./pull_request_template.md ./CONTRIBUTING.md ./CODE_OF_CONDUCT.md ./.github/ISSUE_TEMPLATE/bug_report.md'      
+      
+      - name: Step 3 - Markdown link check
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.3      
+      
+      - name: Step 4 - Wiki page creator
+        uses: Decathlon/wiki-page-creator-action@v2.0.0
+        env:
+          ACTION_MAIL: danilanekrasov.dev@gmail.com
+          ACTION_NAME: danilanekrasov
+          OWNER: danilanekrasov
+          REPO_NAME: hello-world
+          GH_PAT: ${{ secrets.GH_PAT }}
