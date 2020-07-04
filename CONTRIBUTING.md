@@ -117,14 +117,16 @@ Here are a couple of friendly tutorials you can include:
 > Working on your first Pull Request? You can learn how from this *free* series,
 >[How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-[source: [React](https://github.com/facebook/react/blob/master/CONTRIBUTING.md#pull-requests)]  
+[source: [React](https://github.com/facebook/react/blob/master/CONTRIBUTING.md#pull-requests)]
 
 As a side note, it helps to use newcomer-friendly language throughout the rest
 of your document. Here are a couple of examples from [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md):
 
->At this point, you're ready to make your changes! Feel free to ask for help; everyone is a beginner at first :smile_cat:
+>At this point, you're ready to make your changes! Feel free to ask for help;
+>everyone is a beginner at first :smile_cat:
 >
->If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
+>If a maintainer asks you to "rebase" your PR, they're saying that a lot of code
+> has changed, and that you need to update your branch so it's easier to merge.
 
 ## Getting started
 
@@ -132,9 +134,12 @@ of your document. Here are a couple of examples from [Active Admin](https://gith
 
 How you write this is up to you, but some things you may want to include:
 
-* Let them know if they need to sign a CLA, agree to a DCO, or get any other legal stuff out of the way
-* If tests are required for contributions, let them know, and explain how to run the tests
-* If you use anything other than GitHub to manage issues (ex. JIRA or Trac), let them know which tools they’ll need to contribute
+* Let them know if they need to sign a CLA, agree to a DCO, or get any other
+    legal stuff out of the way
+* If tests are required for contributions, let them know, and explain how to run
+    the tests
+* If you use anything other than GitHub to manage issues (ex. JIRA or Trac), let
+    them know which tools they’ll need to contribute
 
 >For something that is bigger than a one or two line fix:
 
