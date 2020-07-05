@@ -23,3 +23,14 @@ signoff
 repo
 js
 Geocoder
+audreyr
+feef
+github
+https
+www
+cookiecutter
+geocoder
+ci
+travis
+golang
+im
