@@ -300,7 +300,7 @@ contributors here, or set expectations for response time.
 [source: [cucumber-ruby](<https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs>)]
 **Need more inspiration?**
 [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours)
-[2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
+[2] [Cookiecutter](<https://github.com/audreyr/cookiecutter#community>)
 
 ## BONUS: Code, commit message and labeling conventions
 
