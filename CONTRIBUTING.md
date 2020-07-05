@@ -30,12 +30,10 @@ are all examples of helpful contributions that mean less work for you.
 >and feature requests or writing code which can be incorporated into
 >Elasticsearch itself.
 
-[source: [Elasticsearch]
-    (<https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md>)]
-    **Need more inspiration?**
-    [1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing)
-    [2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues)
-    (“known issues”)
+[source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md)]
+**Need more inspiration?**
+[1] [Devise](https://github.com/plataformatec/devise/wiki/Contributing)
+[2] [Geocoder](https://github.com/alexreisner/geocoder#known-issues) (“known issues”)
 
 ## Explain contributions you are NOT looking for (if any)
 
@@ -49,10 +47,9 @@ your policy.
 >Stack Overflow is also worth considering.
 
 [source: [Flask](https://github.com/pallets/flask/blob/master/CONTRIBUTING.rst)]
-    **Need more inspiration?** [1] [cucumber-ruby]
-    (<https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#about-to-create-a-new-github-issue>)
-    [2] [Read the Docs]
-    (<http://read-the-docs.readthedocs.org/en/latest/open-source-philosophy.html#unsupported>)
+**Need more inspiration?**
+[1] [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#about-to-create-a-new-github-issue)
+[2] [Read the Docs](<http://read-the-docs.readthedocs.org/en/latest/open-source-philosophy.html#unsupported>)
 
 ## Ground Rules
 
@@ -80,9 +77,9 @@ have one.
 >(<https://www.python.org/psf/codeofconduct/>).
 
 [source: [cookiecutter](https://github.com/cookiecutter/cookiecutter/blob/master/CONTRIBUTING.md)]
-    **Need more inspiration?** [1] [Celery]
-    (<https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct>)
-     [2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
+**Need more inspiration?**
+[1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#community-code-of-conduct)
+[2] [geocoder](https://github.com/alexreisner/geocoder#contributing)
 
 ## Your First Contribution
 
@@ -100,11 +97,9 @@ convention for flagging beginner issues.
 >number of comments is a reasonable proxy for impact a given change will have.
 
 [source: [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#your-first-code-contribution)]
-    **Need more inspiration?**
-    [1] [Read the Docs]
-    (<http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development>)
-    [2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps)
-    (scroll down to "Guidelines" as well)
+**Need more inspiration?**
+[1] [Read the Docs](http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development)
+[2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps) (scroll down to "Guidelines" as well)
 
 ### Bonus points
 
@@ -152,10 +147,10 @@ How you write this is up to you, but some things you may want to include:
 >    * Send a pull request indicating that you have a CLA on file.
 
 [source: [Requirejs](http://requirejs.org/docs/contributing.html)]
-    **Need more inspiration?**
-    [1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here)
-    [2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions)
-    [3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
+**Need more inspiration?**
+[1] [Active Admin](https://github.com/activeadmin/activeadmin/blob/master/CONTRIBUTING.md#1-where-do-i-go-from-here)
+[2] [Node.js](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions)
+[3] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#pull-requests)
 
 ### If you have a different process for small or "obvious" fixes, let them know
 
@@ -176,7 +171,7 @@ How you write this is up to you, but some things you may want to include:
 >* Moving source files from one directory or package to another
 
 [source: [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#chef-obvious-fix-policy)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#making-trivial-changes)
 
 ## How to report a bug
@@ -206,7 +201,7 @@ expert.)
 > just email us at security@travis-ci.org.
 
 [source: [Travis CI](https://github.com/travis-ci/travis-ci/blob/master/CONTRIBUTING.md)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#security)
 [2] [Express.js](https://github.com/expressjs/express/blob/master/Security.md)
 
@@ -227,10 +222,9 @@ for you).
 >you've tripped over a bug.
 
 [source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs)
-[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs)
- (includes template)
+[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
 
 ## How to suggest a feature or enhancement
 
@@ -251,7 +245,8 @@ that may not align with the project’s needs.
 >craft your perfect framework.
 
 [source: [Express](https://github.com/expressjs/express#philosophy)]
- **Need more inspiration?** [Active Admin](https://github.com/activeadmin/activeadmin#goals)
+**Need more inspiration?**
+[Active Admin](https://github.com/activeadmin/activeadmin#goals)
 
 ### Explain your desired process for suggesting a feature
 
@@ -266,7 +261,7 @@ feature, thinking through why it’s needed and how it might work.
 >it, and how it should work.
 
 [source: [Elasticsearch](https://github.com/elastic/elasticsearch/blob/master/CONTRIBUTING.md#feature-requests)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Hoodie](https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md#feature-requests)
 [2] [Ember.js](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md#requesting-a-feature)
 
@@ -287,7 +282,7 @@ at all?
 > isn't showing any activity.
 
 [source: [Puppet](https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md#submitting-changes)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Meteor](https://meteor.hackpad.com/Responding-to-GitHub-Issues-SKE2u3tkSiH )
 [2] [Express.js](https://github.com/expressjs/express/blob/master/Contributing.md#becoming-a-committer)
 
@@ -301,7 +296,7 @@ contributors here, or set expectations for response time.
 >We try to have office hours on Fridays.
 
 [source: [cucumber-ruby](https://github.com/cucumber/cucumber-ruby/blob/master/CONTRIBUTING.md#talking-with-other-devs)]
- **Need more inspiration?**
+**Need more inspiration?**
 [1] [Chef](https://github.com/chef/chef/blob/master/CONTRIBUTING.md#-developer-office-hours)
 [2] [Cookiecutter](https://github.com/audreyr/cookiecutter#community)
 
