@@ -99,7 +99,8 @@ convention for flagging beginner issues.
 [source: [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#your-first-code-contribution)]
 **Need more inspiration?**
 [1] [Read the Docs](http://docs.readthedocs.org/en/latest/contribute.html#contributing-to-development)
-[2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps) (scroll down to "Guidelines" as well)
+[2] [Django](https://docs.djangoproject.com/en/dev/internals/contributing/new-contributors/#first-steps)
+(scroll down to "Guidelines" as well)
 
 ### Bonus points
 
@@ -224,7 +225,8 @@ for you).
 [source: [Go](https://github.com/golang/go/blob/master/CONTRIBUTING.md#filing-issues)]
 **Need more inspiration?**
 [1] [Celery](https://github.com/celery/celery/blob/master/CONTRIBUTING.rst#other-bugs)
-[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) (includes template)
+[2] [Atom](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs)
+(includes template)
 
 ## How to suggest a feature or enhancement
 
