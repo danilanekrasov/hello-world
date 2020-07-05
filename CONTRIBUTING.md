@@ -17,8 +17,7 @@
 >they should reciprocate that respect in addressing your issue, assessing
 >changes, and helping you finalize your pull requests.
 
-[source: [Hoodie]
-    (<https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md>)]
+[source: [Hoodie](<https://github.com/hoodiehq/hoodie/blob/master/CONTRIBUTING.md>)]
 
 ## Explain what kinds of contributions you are looking for
 
